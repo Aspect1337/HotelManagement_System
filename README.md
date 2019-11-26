@@ -13,6 +13,7 @@ Enklare:
 
 - Göra en event handler som hanterar koden som i nuvarande befinner sig i main
 - log-in system som läser in accounts.txt och jämför inputten och ser ifall det är rätt uppgifter
+- faktorera och organisera kod, exempelvis lägga alla .cpp och .h filer i en "src" mapp
 - vad flowcharten säger behövs
 
 
