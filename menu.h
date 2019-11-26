@@ -1,0 +1,2 @@
+bool getMenuOption(int* option);
+
