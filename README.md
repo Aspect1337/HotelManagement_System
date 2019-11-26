@@ -22,3 +22,9 @@ Svårare:
 - Krypteringssystem som krypterar användar-uppgifter vid registrering & inloggning från en säkerhetssperspektiv
 - Dynamisk "rum-skapare" som gör mer flexibla rum som förbättrar upplevelsen (flowchart för mer)
 - En server som hanterar gör en instans av denna kod och fungerar på egen hand (overkill)
+
+
+#Kompilering/Building
+
+- lägga till instruktioner hur man ska kompilera för att få det att starta?
+alternativt vilken IDE som används?
