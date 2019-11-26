@@ -12,6 +12,7 @@ bool getMenuOption(int* option)
     std::cout << "2 - Create account" << std::endl;
     std::cout << "3 - Create hotel" << std::endl;
 
+    // this part takes whatever input and changes the pointer
     std::string str;
     std::cin >> str;
     std::istringstream isNumber(str);
@@ -22,5 +23,6 @@ bool getMenuOption(int* option)
         std::cout << "Wrong, try again" << std::endl;
         getMenuOption(option);
     }
+    //return true to keep the program running or false if not
     return true;
 }
