@@ -1,6 +1,10 @@
 # HotelManagement_System
 A console-based interpreter for booking dynamic hotel systems
 
+# Kompilering/Building
+
+- Kompilering sker i C-lion med inställningarna som finns i cmake.txt
+
 
 Flowchart:
 
@@ -24,7 +28,3 @@ Svårare:
 - En server som hanterar gör en instans av denna kod och fungerar på egen hand (overkill)
 
 
-# Kompilering/Building
-
-- lägga till instruktioner hur man ska kompilera för att få det att starta?
-alternativt vilken IDE som används?
