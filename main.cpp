@@ -4,6 +4,8 @@
 #include "createAccount.h"
 #include "Navigation.h"
 
+
+//This code needs to have its own separate handler file so main can just initiate things
 int main()
 {
     int option = 1;
