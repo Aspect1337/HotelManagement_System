@@ -42,7 +42,7 @@ int countAccounts()
     return accountLines;
 }
 
-user newAccount()
+void newAccount()
 {
     int lineNumber = countAccounts();
     user testUser;
