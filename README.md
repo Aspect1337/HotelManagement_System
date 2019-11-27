@@ -1,6 +1,12 @@
 # HotelManagement_System
 A console-based interpreter for booking dynamic hotel systems
 
+# Kompilera:
+
+Information finns i Cmake.txt men i övrigt så används preferellt C-lion men det ska gå i text editor + terminal med följande (otestat) kommando:
+
+gcc –o hotel main.cpp menu.cpp menu.h createAccount.cpp createAccount.h LoginScreen.cpp LoginScreen.h Navigation.cpp Navigation.h
+
 
 Flowchart:
 
