@@ -8,12 +8,13 @@ Information finns i Cmake.txt men i övrigt så används preferellt C-lion men d
 gcc –o hotel main.cpp menu.cpp menu.h createAccount.cpp createAccount.h LoginScreen.cpp LoginScreen.h Navigation.cpp Navigation.h
 
 
-Flowchart:
+
+# Flowchart:
 
 https://imgur.com/I1g27HH
 
 
-Todo:
+# Todo:
 
 Enklare:
 
