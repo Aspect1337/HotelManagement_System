@@ -1,5 +1,3 @@
-#include <iostream>
-
 struct user
 {
     int ID;
@@ -7,4 +5,4 @@ struct user
     std::string password;
 };
 
-user newAccount();
+void newAccount();
