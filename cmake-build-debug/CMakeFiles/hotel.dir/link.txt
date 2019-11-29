@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.2.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\hotel.dir/objects.a
+C:\Users\adamp\OneDrive\Dokument\mingw\mingw64\bin\ar.exe cr CMakeFiles\hotel.dir/objects.a @CMakeFiles\hotel.dir\objects1.rsp
+C:\Users\adamp\OneDrive\Dokument\mingw\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\hotel.dir/objects.a -Wl,--no-whole-archive  -o hotel.exe -Wl,--out-implib,libhotel.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\hotel.dir\linklibs.rsp

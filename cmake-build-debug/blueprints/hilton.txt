@@ -1,0 +1,8 @@
+grandroom
+{
+    bed;kingsize
+    bed;queensize
+    dinnertable;medium
+}
+
+//Example
