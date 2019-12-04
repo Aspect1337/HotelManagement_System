@@ -1,3 +1,0 @@
-C:/hotel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/hotel/cmake-build-debug/CMakeFiles/hotel.dir
-C:/hotel/cmake-build-debug/CMakeFiles/edit_cache.dir
