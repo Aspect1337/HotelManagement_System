@@ -1,0 +1,5 @@
+#ignore these files.
+.idea/
+cmake-build-debug/
+#ignore ALL exe files if any exist.
+*.exe
